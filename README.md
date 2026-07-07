@@ -187,7 +187,7 @@ São apresentados:
 ## 1 - Clone o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/Desafio-Analista-de-Dados-Sefaz-Macei-.git
+git clone https://github.com/LucasGabrielAlvz/Desafio-Analista-de-Dados-Sefaz-Macei-/tree/main
 ```
 
 ---
